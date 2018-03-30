@@ -1,0 +1,18 @@
+{
+  "name": "gulp-app",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Santosh Narayankar",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^2.0.5",
+    "gulp-less": "^1.2.3",
+    "gulp-sass": "^3.2.1",
+    "gulp-watch": "^0.6.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp-connect-proxy": "^0.3.1",
+    "http-proxy-middleware": "^0.18.0"
+  }
+}
